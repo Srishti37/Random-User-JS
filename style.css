@@ -1,0 +1,41 @@
+body{
+    background-color: aqua;
+}
+#container{
+    height:280px;
+    width: 21%;
+    margin-top: 10%;
+    margin-left: 40%;
+    border: 3px solid black;
+    /* border-radius: 500px; */
+    text-align: center;
+}
+h3{
+    color: white;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    color: white;
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img{
+    margin-top: 3px;
+    border: 3px solid white;
+    border-radius: 150px;
+    height: 115px;
+    width: 112px;
+}
+
+#btn{
+    font-weight: bold;
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    height: 40px;
+    width: 320px;
+    margin-top: 2%;
+    margin-left:40%;
+}
